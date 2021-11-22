@@ -1,0 +1,22 @@
+{
+  "name": "a02-xaviprat",
+  "version": "1.0.0",
+  "description": "assignment 2 for comp426",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-xaviprat.git"
+  },
+  "author": "Xavi",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-xaviprat/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-xaviprat#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
